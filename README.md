@@ -166,6 +166,6 @@ alias klf 'k logs -f'
 alias krh 'k rollout history'
 alias krsd 'k rollout status deployment'
 alias kru 'k rollout undo'
-alias ksd 'k scale deployment'⏎
+alias ksd 'k scale deployment'
 ```
 
