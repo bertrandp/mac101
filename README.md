@@ -5,6 +5,7 @@ Dans l'ordre :
 - fisher
 - kubectl
 - tide
+- les alias
 
 ## fish
 `brew install fish`
