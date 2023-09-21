@@ -1,8 +1,16 @@
 # howto
 
 ## fish
+`brew install fish`
 
-## tide
+### fisher 
+https://github.com/jorgebucaran/fisher#installation
+`curl -sL https://raw.githubusercontent.com/jorgebucaran/fisher/main/functions/fisher.fish | source && fisher install jorgebucaran/fisher`
+
+### tide
+
+cf https://github.com/IlanCosman/tide#installation
+font puis tide
 
 ## alias
 
