@@ -1,7 +1,16 @@
 # howto
 
+Dans l'ordre : 
+- fish
+- fisher
+- kubectl
+- tide
+
 ## fish
 `brew install fish`
+
+## kubectl
+setup kubectl
 
 ### fisher 
 https://github.com/jorgebucaran/fisher#installation
@@ -126,6 +135,8 @@ alias gt="git log --graph --date-order --date=short --pretty=format:'%C(auto)%h%
 ```
 
 ### kubectl
+
+
 
 Créer un fichier `.config/fish/conf.d/kubectl_aliases.fish` avec les alias :
 ```
