@@ -1,5 +1,7 @@
 # terminal101
 
+Pour setup un terminal sous macos avec kubernetes
+
 Dans l'ordre : 
 - fish
 - fisher
