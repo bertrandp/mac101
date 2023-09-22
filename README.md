@@ -1,4 +1,4 @@
-# howto
+# terminal101
 
 Dans l'ordre : 
 - fish
