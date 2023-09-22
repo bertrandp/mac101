@@ -5,7 +5,7 @@ Dans l'ordre :
 - fisher
 - kubectl
 - tide
-- les alias
+- créer les alias
 
 ## fish
 `brew install fish`
@@ -20,7 +20,8 @@ https://github.com/jorgebucaran/fisher#installation
 ### tide
 
 cf https://github.com/IlanCosman/tide#installation
-font puis tide
+
+Ne pas oublier les polices
 
 ## alias
 
