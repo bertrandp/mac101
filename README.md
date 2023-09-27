@@ -1,4 +1,6 @@
-# terminal101
+# mac101
+
+## terminal
 
 Pour setup un terminal sous macos avec kubernetes
 
@@ -9,25 +11,25 @@ Dans l'ordre :
 - tide
 - créer les alias
 
-## fish
+### fish
 `brew install fish`
 
-## kubectl
+### kubectl
 setup kubectl
 
-### fisher 
+#### fisher 
 https://github.com/jorgebucaran/fisher#installation
 `curl -sL https://raw.githubusercontent.com/jorgebucaran/fisher/main/functions/fisher.fish | source && fisher install jorgebucaran/fisher`
 
-### tide
+#### tide
 
 cf https://github.com/IlanCosman/tide#installation
 
 Ne pas oublier les polices
 
-## alias
+### alias
 
-### git
+#### git
 
 Depuis https://gist.github.com/freewind/773c3324b5288ff636af
 Créer un fichier `.config/fish/conf.d/git_aliases.fish` avec les alias :
@@ -138,9 +140,7 @@ Pour le git tree, ajouter :
 alias gt="git log --graph --date-order --date=short --pretty=format:'%C(auto)%h%d %C(reset)%s %C(blue)%aN %C(reset)%C(green)%cr' $argv;"
 ```
 
-### kubectl
-
-
+#### kubectl
 
 Créer un fichier `.config/fish/conf.d/kubectl_aliases.fish` avec les alias :
 ```
@@ -184,3 +184,6 @@ alias kru 'k rollout undo'
 alias ksd 'k scale deployment'
 ```
 
+## Java
+
+Todo :
