@@ -2,7 +2,7 @@
 
 ## terminal
 
-Pour setup un terminal sous macos avec kubernetes
+Pour installer fish sous macos avec kubernetes
 
 Dans l'ordre : 
 - fish
