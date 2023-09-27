@@ -14,8 +14,10 @@ Dans l'ordre :
 ### fish
 `brew install fish`
 
-### kubectl
-setup kubectl
+### kubectl intégré à fish
+
+#### kubectl
+`brew install kubectl`
 
 #### fisher 
 https://github.com/jorgebucaran/fisher#installation
