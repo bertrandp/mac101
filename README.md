@@ -6,8 +6,8 @@ Pour installer fish sous macos (avec kubectl)
 
 Dans l'ordre : 
 - fish
-- fisher
 - kubectl
+- fisher
 - tide
 - créer les alias
 
