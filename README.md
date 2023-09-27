@@ -184,6 +184,19 @@ alias kru 'k rollout undo'
 alias ksd 'k scale deployment'
 ```
 
-## Java
+## java et maven
 
-Todo :
+### sdkman avec fish
+
+https://github.com/sdkman/sdkman-cli#installation
+
+https://github.com/reitzig/sdkman-for-fish
+
+### java
+
+`sdk list java`
+`sdk install java x.y.z-tem`
+
+### maven
+
+`sdk install maven`
