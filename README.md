@@ -2,7 +2,7 @@
 
 ## terminal
 
-Pour installer fish sous macos avec kubernetes
+Pour installer fish sous macos (avec kubectl)
 
 Dans l'ordre : 
 - fish
